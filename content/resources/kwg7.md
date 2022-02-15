@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example of a student's response to the Reaction Paper 7 assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-368-environmental-justice-fall-2004/da0a4adf98436e23694c2cd1a6576442_kwg7.pdf
+file: /media/courses/11-368-environmental-justice-fall-2004/da0a4adf98436e23694c2cd1a6576442_kwg7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: kwg7.pdf
 uid: da0a4adf-9843-6e23-694c-2cd1a6576442
