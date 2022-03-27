@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8718ae83-f494-4a5d-7c9c-bd135dc66f83
 resourcetype: Document
 title: dm8.pdf
 uid: ca574337-93f3-8fd5-efed-d9483092fd09

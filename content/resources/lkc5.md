@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8718ae83-f494-4a5d-7c9c-bd135dc66f83
 resourcetype: Document
 title: lkc5.pdf
 uid: 01aa556d-0d6e-a3e7-c86b-f17ee75686d7

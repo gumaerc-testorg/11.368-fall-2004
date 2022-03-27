@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8718ae83-f494-4a5d-7c9c-bd135dc66f83
 resourcetype: Document
 title: kwg4.pdf
 uid: 1ee19d21-fef3-4b26-eea9-c06e05226346
