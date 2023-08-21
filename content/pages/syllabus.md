@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Course Overview and Grading Criteria
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
