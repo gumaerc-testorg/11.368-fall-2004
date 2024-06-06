@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of a student's response to the Reaction Paper 6 assignment.
 file: /courses/11-368-environmental-justice-fall-2004/c7bec857ff70edacded9088f32de31c0_lkc6.pdf
+file_size: 73999
 file_type: application/pdf
 learning_resource_types:
 - Assignments

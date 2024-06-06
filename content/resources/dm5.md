@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of a student's work for the Reaction Paper 5 assignment.
 file: /courses/11-368-environmental-justice-fall-2004/ddf1d70d9d1e8a6eec0ad9dfff5e39b7_dm5.pdf
+file_size: 69266
 file_type: application/pdf
 learning_resource_types:
 - Assignments
