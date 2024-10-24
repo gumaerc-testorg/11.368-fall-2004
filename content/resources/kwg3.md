@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of a student's response to the Reaction Paper 3 assignment.
-file: /courses/11-368-environmental-justice-fall-2004/6ae6d6efda301f9f6a336cd25ee50bcd_kwg3.pdf
+file: /ol-ocw-studio-app/courses/11-368-environmental-justice-fall-2004/6ae6d6efda301f9f6a336cd25ee50bcd_kwg3.pdf
 file_size: 71808
 file_type: application/pdf
 learning_resource_types:
